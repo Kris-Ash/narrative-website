@@ -5565,6 +5565,11 @@ textarea.form-control-lg {
   overflow-y: auto;
   outline: 0;
 }
+.alignment {
+
+  display:flex;
+  justify-content: space-around;
+}
 
 .modal-dialog {
   position: relative;
