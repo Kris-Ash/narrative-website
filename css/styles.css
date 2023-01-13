@@ -236,6 +236,10 @@ html, body {margin: 0; height: 100%; overflow: hidden}
   color: #231F20;
 }
 
+.hob-grey {
+  color: #bab3a9;
+}
+
 abbr[title],
 abbr[data-bs-original-title] {
   -webkit-text-decoration: underline dotted;
@@ -3318,9 +3322,9 @@ textarea.form-control-lg {
 }
 
 .btn-dark {
-  color: #fff;
-  background-color: #212529;
-  border-color: #212529;
+  color: #231F20;
+  background-color: #bab3a9;
+  border-color: #bab3a9;
 }
 .btn-dark:hover {
   color: #fff;
@@ -11847,10 +11851,12 @@ section#contact form#contactForm :-ms-input-placeholder {
 }
 
 .footer {
-  text-align: center;
-  font-size: 0.9rem;
-  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-}
+    text-align: center;
+    font-size: 0.9rem;
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    background-color: #706d66;
+    max-width: 58.3%;
+  }
 .col-0-1qtr, .col-1-1qtr, .col-2-1qtr, .col-3-1qtr, .col-4-1qtr, .col-5-1qtr, .col-6-1qtr, .col-7-1qtr, .col-8-1qtr, .col-9-1qtr, .col-10-1qtr, .col-11-1qtr,
 .col-0-half, .col-1-half, .col-2-half, .col-3-half, .col-4-half, .col-5-half, .col-6-half, .col-7-half, .col-8-half, .col-9-half, .col-10-half, .col-11-half,
 .col-0-3qtr, .col-1-3qtr, .col-2-3qtr, .col-3-3qtr, .col-4-3qtr, .col-5-3qtr, .col-6-3qtr, .col-7-3qtr, .col-8-3qtr, .col-9-3qtr, .col-10-3qtr, .col-11-3qtr,
